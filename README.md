@@ -1,5 +1,3 @@
-# Webpack configurado
+# Aplication TO-DO
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
-
-Pero esto lo veremos en la siguiente sección
+This aplication can be use to organize some things tha you have to do in a day.
